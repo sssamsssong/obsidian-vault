@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "file": "강의/응용유체역학/Ch8_파이프내점성유동.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch6_보존방정식"
+              "title": "Ch8_파이프내점성유동"
             }
           }
         ]
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "file": "강의/응용유체역학/Ch8_파이프내점성유동.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ch6_보존방정식 의 개요"
+              "title": "Ch8_파이프내점성유동 의 개요"
             }
           },
           {
@@ -217,18 +217,19 @@
   },
   "active": "8b4605152a32dd72",
   "lastOpenFiles": [
+    "강의/응용유체역학/Ch7_차원해석.md",
+    "강의/응용유체역학/Ch6_보존방정식.md",
+    "강의/자연어처리와챗지피티/자연어처리와챗지피티.md",
+    "강의/응용유체역학/Ch8_파이프내점성유동.md",
     "강의/응용유체역학/Ch9_침수물체주위유동.md",
     "유체역학_정리.canvas",
     "유체역학 정리.canvas",
     "강의/응용유체역학/응용유체역학.md",
-    "강의/응용유체역학/Ch8_파이프내점성유동.md",
-    "강의/응용유체역학/Ch7_차원해석.md",
     "Pasted image 20260414222552.png",
     "Pasted image 20260414220328.png",
     "Pasted image 20260414222541.png",
     "Pasted image 20260414220256.png",
     "Pasted image 20260414220215.png",
-    "강의/응용유체역학/Ch6_보존방정식.md",
     "무제 2.canvas",
     "무제 1.canvas",
     "무제.base",

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch8_파이프내점성유동",
+      "path": "강의/응용유체역학/Ch8_파이프내점성유동.md"
+    },
+    {
+      "basename": "Ch7_차원해석",
+      "path": "강의/응용유체역학/Ch7_차원해석.md"
+    },
+    {
       "basename": "Ch6_보존방정식",
       "path": "강의/응용유체역학/Ch6_보존방정식.md"
+    },
+    {
+      "basename": "자연어처리와챗지피티",
+      "path": "강의/자연어처리와챗지피티/자연어처리와챗지피티.md"
     },
     {
       "basename": "Ch9_침수물체주위유동",
@@ -15,14 +27,6 @@
     {
       "basename": "응용유체역학",
       "path": "강의/응용유체역학/응용유체역학.md"
-    },
-    {
-      "basename": "Ch8_파이프내점성유동",
-      "path": "강의/응용유체역학/Ch8_파이프내점성유동.md"
-    },
-    {
-      "basename": "Ch7_차원해석",
-      "path": "강의/응용유체역학/Ch7_차원해석.md"
     },
     {
       "basename": "Pasted image 20260414222541",
@@ -47,10 +51,6 @@
     {
       "basename": "0- 0-Overview",
       "path": "YAX/신입교육/커리큘럼/0-setup/0- 0-Overview.md"
-    },
-    {
-      "basename": "자연어처리와챗지피티",
-      "path": "강의/자연어처리와챗지피티/자연어처리와챗지피티.md"
     },
     {
       "basename": "Ch1_ML_Basics",
