@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "9f5a634ea560ea78",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bce516a015dc2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b4605152a32dd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch6_보존방정식"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a745070226e1d802",
+    "type": "split",
+    "children": [
+      {
+        "id": "bccf334561ad8369",
+        "type": "tabs",
+        "dimension": 77.01149425287356,
+        "children": [
+          {
+            "id": "beab6a29e430c9f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "872eb82d2bd0b0eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "259c497cfbdf823a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdd1ff0fe2c04049",
+        "type": "tabs",
+        "dimension": 22.98850574712644,
+        "children": [
+          {
+            "id": "d540e8d921f10995",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "46bbfb30a867c39e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a6a268df787256b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "410e5fcc61d5fb1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Ch6_보존방정식 의 백링크"
+            }
+          },
+          {
+            "id": "2db9e4716510a279",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Ch6_보존방정식 의 나가는 링크"
+            }
+          },
+          {
+            "id": "4c656b41c92593a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "c0f773551f64fb50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "5503e5289b3d69a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "강의/응용유체역학/Ch6_보존방정식.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Ch6_보존방정식 의 개요"
+            }
+          },
+          {
+            "id": "3babd2b9614043c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8b4605152a32dd72",
+  "lastOpenFiles": [
+    "강의/응용유체역학/Ch9_침수물체주위유동.md",
+    "유체역학_정리.canvas",
+    "유체역학 정리.canvas",
+    "강의/응용유체역학/응용유체역학.md",
+    "강의/응용유체역학/Ch8_파이프내점성유동.md",
+    "강의/응용유체역학/Ch7_차원해석.md",
+    "Pasted image 20260414222552.png",
+    "Pasted image 20260414220328.png",
+    "Pasted image 20260414222541.png",
+    "Pasted image 20260414220256.png",
+    "Pasted image 20260414220215.png",
+    "강의/응용유체역학/Ch6_보존방정식.md",
+    "무제 2.canvas",
+    "무제 1.canvas",
+    "무제.base",
+    "copilot/copilot-conversations/폴더_내용_제목_중심_정리@20260414_002704.md",
+    "copilot/copilot-conversations/이_폴더_안의_내용들을_요약해서_설명해줘@20260414_002704.md",
+    "copilot/copilot-conversations/copilot-conversations.md",
+    "copilot/copilot-conversations",
+    "2026-04-14.md",
+    "강의/기계진동/기계진동.md",
+    "copilot/copilot-custom-prompts/copilot-custom-prompts.md",
+    "copilot/copilot.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "강의/기계진동",
+    "Pasted image 20260407013303.png",
+    "FPGA Hardware Neural Control of CartPole and F1TENTH Race Car.pdf",
+    "강의/자연어처리와챗지피티/Ch5_MRC",
+    "강의/자연어처리와챗지피티/Ch4_Text_Classification",
+    "강의/자연어처리와챗지피티/Ch3_Sequential",
+    "강의/자연어처리와챗지피티/Ch2_Word_Embedding",
+    "Pasted image 20260408213505.png",
+    "Pasted image 20260408213505 1.png",
+    "강의/자연어처리와챗지피티/Pasted image 20260407012940.png"
+  ]
+}
