@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "유체역학_정리",
-      "path": "유체역학_정리.canvas"
-    },
-    {
       "basename": "기계진동 정리",
       "path": "기계진동 정리.canvas"
     },
@@ -13,16 +9,20 @@
       "path": "강의/기계진동/기계진동_정리.md"
     },
     {
+      "basename": "유체역학_정리",
+      "path": "유체역학_정리.canvas"
+    },
+    {
+      "basename": "Ch6_보존방정식",
+      "path": "강의/응용유체역학/Ch6_보존방정식.md"
+    },
+    {
       "basename": "Ch8_파이프내점성유동",
       "path": "강의/응용유체역학/Ch8_파이프내점성유동.md"
     },
     {
       "basename": "Ch7_차원해석",
       "path": "강의/응용유체역학/Ch7_차원해석.md"
-    },
-    {
-      "basename": "Ch6_보존방정식",
-      "path": "강의/응용유체역학/Ch6_보존방정식.md"
     },
     {
       "basename": "자연어처리와챗지피티",
@@ -191,10 +191,6 @@
     {
       "basename": "5-6-Model-Deployment",
       "path": "YAX/신입교육/커리큘럼/5-Data-ML/5-6-Model-Deployment.md"
-    },
-    {
-      "basename": "5-5-E2E-Model",
-      "path": "YAX/신입교육/커리큘럼/5-Data-ML/5-5-E2E-Model.md"
     }
   ],
   "omittedPaths": [],
