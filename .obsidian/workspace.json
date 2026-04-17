@@ -4,21 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "6574b2aaf03969c3",
+        "type": "tabs",
+        "dimension": 39.66346153846153,
+        "children": [
+          {
+            "id": "f2bbae639255995a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/기계진동/기계진동_정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기계진동_정리"
+            }
+          }
+        ]
+      },
+      {
         "id": "0bce516a015dc2fb",
         "type": "tabs",
+        "dimension": 60.33653846153846,
         "children": [
           {
             "id": "8b4605152a32dd72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "강의/응용유체역학/Ch8_파이프내점성유동.md",
-                "mode": "source",
-                "source": false
+                "file": "유체역학_정리.canvas",
+                "viewState": {
+                  "x": 756.3219384118198,
+                  "y": 2077.410779111949,
+                  "zoom": -1.1823704369051804
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ch8_파이프내점성유동"
+              "icon": "lucide-layout-dashboard",
+              "title": "유체역학_정리"
             }
           }
         ]
@@ -174,17 +199,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의/응용유체역학/Ch8_파이프내점성유동.md",
+                "file": "유체역학_정리.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ch8_파이프내점성유동 의 개요"
+              "title": "유체역학_정리 의 개요"
             }
           },
           {
-            "id": "3babd2b9614043c5",
+            "id": "d3727a7252fe8213",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -198,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +242,14 @@
   },
   "active": "8b4605152a32dd72",
   "lastOpenFiles": [
+    "기계진동 정리.canvas",
+    "강의/기계진동/기계진동_정리.md",
+    "무제 1.canvas",
+    "2026-04-16.md",
+    "강의/응용유체역학/Ch8_파이프내점성유동.md",
     "강의/응용유체역학/Ch7_차원해석.md",
     "강의/응용유체역학/Ch6_보존방정식.md",
     "강의/자연어처리와챗지피티/자연어처리와챗지피티.md",
-    "강의/응용유체역학/Ch8_파이프내점성유동.md",
     "강의/응용유체역학/Ch9_침수물체주위유동.md",
     "유체역학_정리.canvas",
     "유체역학 정리.canvas",
@@ -231,7 +260,6 @@
     "Pasted image 20260414220256.png",
     "Pasted image 20260414220215.png",
     "무제 2.canvas",
-    "무제 1.canvas",
     "무제.base",
     "copilot/copilot-conversations/폴더_내용_제목_중심_정리@20260414_002704.md",
     "copilot/copilot-conversations/이_폴더_안의_내용들을_요약해서_설명해줘@20260414_002704.md",
@@ -251,9 +279,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "강의/기계진동",

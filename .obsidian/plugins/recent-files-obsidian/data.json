@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "유체역학_정리",
+      "path": "유체역학_정리.canvas"
+    },
+    {
+      "basename": "기계진동 정리",
+      "path": "기계진동 정리.canvas"
+    },
+    {
+      "basename": "기계진동_정리",
+      "path": "강의/기계진동/기계진동_정리.md"
+    },
+    {
       "basename": "Ch8_파이프내점성유동",
       "path": "강의/응용유체역학/Ch8_파이프내점성유동.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Ch9_침수물체주위유동",
       "path": "강의/응용유체역학/Ch9_침수물체주위유동.md"
-    },
-    {
-      "basename": "유체역학_정리",
-      "path": "유체역학_정리.canvas"
     },
     {
       "basename": "응용유체역학",
@@ -55,10 +63,6 @@
     {
       "basename": "Ch1_ML_Basics",
       "path": "강의/자연어처리와챗지피티/Ch1_ML_Basics/Ch1_ML_Basics.md"
-    },
-    {
-      "basename": "기계진동_정리",
-      "path": "강의/기계진동/기계진동_정리.md"
     },
     {
       "basename": "Ch2_Word_Embedding (000758)",
@@ -191,10 +195,6 @@
     {
       "basename": "5-5-E2E-Model",
       "path": "YAX/신입교육/커리큘럼/5-Data-ML/5-5-E2E-Model.md"
-    },
-    {
-      "basename": "5-4-PyTorch-Basics",
-      "path": "YAX/신입교육/커리큘럼/5-Data-ML/5-4-PyTorch-Basics.md"
     }
   ],
   "omittedPaths": [],
