@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "기계진동 정리",
-      "path": "기계진동 정리.canvas"
-    },
-    {
-      "basename": "기계진동_정리",
-      "path": "강의/기계진동/기계진동_정리.md"
-    },
-    {
       "basename": "유체역학_정리",
       "path": "유체역학_정리.canvas"
     },
@@ -19,6 +11,14 @@
     {
       "basename": "Ch8_파이프내점성유동",
       "path": "강의/응용유체역학/Ch8_파이프내점성유동.md"
+    },
+    {
+      "basename": "기계진동 정리",
+      "path": "기계진동 정리.canvas"
+    },
+    {
+      "basename": "기계진동_정리",
+      "path": "강의/기계진동/기계진동_정리.md"
     },
     {
       "basename": "Ch7_차원해석",

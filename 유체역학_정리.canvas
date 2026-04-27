@@ -304,17 +304,7 @@
 			"x":200,
 			"y":5800,
 			"width":400,
-			"height":320
-		},
-		{
-			"id":"ch8_minor_overview",
-			"type":"text",
-			"text":"부손실 (Minor Losses)\n$$h_{L,\\text{부}}=K_L\\cdot\\frac{V^2}{2g}$$\n$K_L=\\dfrac{\\Delta p}{\\frac{1}{2}\\rho V^2}$ : 손실 계수\n\n**등가 길이:**\n$$\\ell_{eq}\\equiv\\frac{D\\cdot K_L}{f}$$",
-			"styleAttributes":{},
-			"x":200,
-			"y":6160,
-			"width":340,
-			"height":280
+			"height":360
 		},
 		{
 			"id":"ch8_noncircular",
@@ -325,26 +315,6 @@
 			"y":7080,
 			"width":280,
 			"height":180
-		},
-		{
-			"id":"ch8_valve",
-			"type":"text",
-			"text":"밸브\n$K_L=f(\\text{geometry},Re)\\approx f(\\text{geometry})$",
-			"styleAttributes":{},
-			"x":720,
-			"y":6260,
-			"width":300,
-			"height":80
-		},
-		{
-			"id":"ch8_entrance",
-			"type":"text",
-			"text":"파이프 입구\n- 날카로운 모서리: $K_L\\approx0.5$\n- 둥글수록 $K_L$ 감소\n- 가속 구간에서 운동에너지 손실\n- 분리 유동(separated flow) 발생\n- 이상: $p+\\frac{1}{2}\\rho V^2=\\text{const}$\n  → 실제는 loss로 압력이 더 낮아짐",
-			"styleAttributes":{},
-			"x":720,
-			"y":6360,
-			"width":320,
-			"height":240
 		},
 		{
 			"id":"ch9_header",
@@ -397,56 +367,6 @@
 			"height":225
 		},
 		{
-			"id":"ch8_exit",
-			"type":"text",
-			"text":"파이프 출구 → 탱크\n$V_2\\approx0,\\;p_1\\approx p_2$\n$$h_{L,\\text{부}}=\\frac{V_1^2}{2g}\\quad\\therefore K_L=1$$",
-			"styleAttributes":{},
-			"x":720,
-			"y":6680,
-			"width":300,
-			"height":120
-		},
-		{
-			"id":"ch8_sudden_exp",
-			"type":"text",
-			"text":"급격한 확대 (Sudden Expansion)\n에너지 + 운동량 방정식:\n$$K_L=\\left(1-\\frac{V_3}{V_1}\\right)^2=\\left(1-\\frac{A_1}{A_3}\\right)^2$$",
-			"styleAttributes":{},
-			"x":720,
-			"y":6820,
-			"width":340,
-			"height":120
-		},
-		{
-			"id":"ch8_diffuser",
-			"type":"text",
-			"text":"원뿔형 디퓨저 (감속)\n$K_L=\\phi(\\theta,\\,A_1/A_2)$\n최적각: $\\theta\\approx8°$ (손실 최소, 매우 긺)\n$\\theta=90°$, $180°$: 손실 급증",
-			"styleAttributes":{},
-			"x":720,
-			"y":6960,
-			"width":320,
-			"height":120
-		},
-		{
-			"id":"ch8_nozzle",
-			"type":"text",
-			"text":"원뿔형 노즐 (가속)\n$K_L\\approx0.02\\;(\\theta\\lesssim30°)$\n매우 효율적인 가속 가능",
-			"styleAttributes":{},
-			"x":720,
-			"y":7100,
-			"width":280,
-			"height":100
-		},
-		{
-			"id":"ch8_bend",
-			"type":"text",
-			"text":"벤드 (Bend)\n$K_L=\\phi(R/D,\\;\\varepsilon/D)$\n→ 원심력 불균형으로 **이차 유동** 발생\n  (파이프 단면 내 쌍 와류)",
-			"styleAttributes":{},
-			"x":720,
-			"y":7220,
-			"width":300,
-			"height":120
-		},
-		{
 			"id":"0e8ffabb454cd7da",
 			"type":"text",
 			"text":"",
@@ -455,6 +375,86 @@
 			"y":1880,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"ch8_minor_overview",
+			"type":"text",
+			"text":"부손실 (Minor Losses)\n$$h_{L,\\text{부}}=K_L\\cdot\\frac{V^2}{2g}$$\n$K_L=\\dfrac{\\Delta p}{\\frac{1}{2}\\rho V^2}$ : 손실 계수\n\n**등가 길이:**\n$$\\ell_{eq}\\equiv\\frac{D\\cdot K_L}{f}$$",
+			"styleAttributes":{},
+			"x":200,
+			"y":6200,
+			"width":340,
+			"height":280
+		},
+		{
+			"id":"ch8_valve",
+			"type":"text",
+			"text":"밸브\n$K_L=f(\\text{geometry},Re)\\approx f(\\text{geometry})$",
+			"styleAttributes":{},
+			"x":740,
+			"y":6300,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"ch8_entrance",
+			"type":"text",
+			"text":"파이프 입구\n- 날카로운 모서리: $K_L\\approx0.5$\n- 둥글수록 $K_L$ 감소\n- 가속 구간에서 운동에너지 손실\n- 분리 유동(separated flow) 발생\n- 이상: $p+\\frac{1}{2}\\rho V^2=\\text{const}$\n  → 실제는 loss로 압력이 더 낮아짐",
+			"styleAttributes":{},
+			"x":740,
+			"y":6400,
+			"width":320,
+			"height":240
+		},
+		{
+			"id":"ch8_sudden_exp",
+			"type":"text",
+			"text":"급격한 확대 (Sudden Expansion)\n에너지 + 운동량 방정식:\n$$K_L=\\left(1-\\frac{V_3}{V_1}\\right)^2=\\left(1-\\frac{A_1}{A_3}\\right)^2$$",
+			"styleAttributes":{},
+			"x":740,
+			"y":6860,
+			"width":340,
+			"height":120
+		},
+		{
+			"id":"ch8_diffuser",
+			"type":"text",
+			"text":"원뿔형 디퓨저 (감속)\n$K_L=\\phi(\\theta,\\,A_1/A_2)$\n최적각: $\\theta\\approx8°$ (손실 최소, 매우 긺)\n$\\theta=90°$, $180°$: 손실 급증",
+			"styleAttributes":{},
+			"x":740,
+			"y":7000,
+			"width":320,
+			"height":120
+		},
+		{
+			"id":"ch8_nozzle",
+			"type":"text",
+			"text":"원뿔형 노즐 (가속)\n$K_L\\approx0.02\\;(\\theta\\lesssim30°)$\n매우 효율적인 가속 가능",
+			"styleAttributes":{},
+			"x":740,
+			"y":7140,
+			"width":280,
+			"height":100
+		},
+		{
+			"id":"ch8_bend",
+			"type":"text",
+			"text":"벤드 (Bend)\n$K_L=\\phi(R/D,\\;\\varepsilon/D)$\n→ 원심력 불균형으로 **이차 유동** 발생\n  (파이프 단면 내 쌍 와류)",
+			"styleAttributes":{},
+			"x":740,
+			"y":7260,
+			"width":300,
+			"height":180
+		},
+		{
+			"id":"ch8_exit",
+			"type":"text",
+			"text":"파이프 출구 → 탱크\n$V_2\\approx0,\\;p_1\\approx p_2$\n$$h_{L,\\text{부}}=\\frac{V_1^2}{2g}\\quad\\therefore K_L=1$$",
+			"styleAttributes":{},
+			"x":740,
+			"y":6680,
+			"width":300,
+			"height":160
 		}
 	],
 	"edges":[
@@ -877,6 +877,7 @@
 		{
 			"id":"e_84_header",
 			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromFloating":false,
 			"fromNode":"3ea46e5bb1bf04bc",
 			"fromSide":"right",
 			"toNode":"ch8_84_header",
@@ -909,6 +910,7 @@
 		{
 			"id":"e_minor_ent",
 			"styleAttributes":{"pathfindingMethod":"square","path":"short-dashed"},
+			"fromFloating":false,
 			"fromNode":"ch8_minor_overview",
 			"fromSide":"right",
 			"toNode":"ch8_entrance",
@@ -949,6 +951,7 @@
 		{
 			"id":"e_minor_bend",
 			"styleAttributes":{"pathfindingMethod":"square","path":"short-dashed"},
+			"fromFloating":false,
 			"fromNode":"ch8_minor_overview",
 			"fromSide":"right",
 			"toNode":"ch8_bend",

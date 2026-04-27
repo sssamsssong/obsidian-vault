@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "기계진동 정리.canvas",
+                "file": "유체역학_정리.canvas",
                 "viewState": {
-                  "x": 30,
-                  "y": -730,
-                  "zoom": -0.6330309408891466
+                  "x": 448.399165628325,
+                  "y": 4890.768873272021,
+                  "zoom": -0.5157037702385139
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "기계진동 정리"
+              "title": "유체역학_정리"
             }
           }
         ]
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "46bbfb30a867c39e",
@@ -218,18 +219,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beab6a29e430c9f8",
+  "active": "8b4605152a32dd72",
   "lastOpenFiles": [
-    "기계진동 정리.canvas",
-    "강의/기계진동/기계진동_정리.md",
-    "mechanical_vibration.md",
-    "mechanical_vibration.canvas",
-    "유체역학_정리.canvas",
     "강의/응용유체역학/Ch6_보존방정식.md",
+    "유체역학_정리.canvas",
+    "강의/응용유체역학/Ch8_파이프내점성유동.md",
+    "기계진동 정리.canvas",
+    "mechanical_vibration.md",
+    "강의/기계진동/기계진동_정리.md",
+    "mechanical_vibration.canvas",
     "테스트용 문서.md",
     "무제 1.canvas",
     "2026-04-16.md",
-    "강의/응용유체역학/Ch8_파이프내점성유동.md",
     "강의/응용유체역학/Ch7_차원해석.md",
     "강의/자연어처리와챗지피티/자연어처리와챗지피티.md",
     "강의/응용유체역학/Ch9_침수물체주위유동.md",

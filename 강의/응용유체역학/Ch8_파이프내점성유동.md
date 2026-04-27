@@ -103,7 +103,7 @@ $$\frac{\Delta p}{\ell} = \frac{32\mu V}{D^2}$$
 
 **무차원화 (다르시-바이스바흐, Darcy-Weisbach):**
 
-$$\frac{\Delta p}{\frac{1}{2}\rho V^2} = \frac{64}{Re}\cdot\frac{\ell}{D} \Rightarrow \frac{\Delta p}{\frac{1}{2}\rho V^2}\bigg/\frac{\ell}{D} = \frac{64}{Re} \equiv f \quad \text{(다르시 마찰계수)}$$
+	$$\frac{\Delta p}{\frac{1}{2}\rho V^2} = \frac{64}{Re}\cdot\frac{\ell}{D} \Rightarrow \frac{\Delta p}{\frac{1}{2}\rho V^2}\bigg/\frac{\ell}{D} = \frac{64}{Re} \equiv f \quad \text{(다르시 마찰계수)}$$
 
 ### 에너지 고려
 
